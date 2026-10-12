@@ -1,0 +1,57 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sajilo eSports</title>
+  <style>
+    body {
+      margin: 0;
+      background: #0b1020;
+      color: white;
+      font-family: Arial, sans-serif;
+      text-align: center;
+    }
+    header {
+      padding: 24px 12px;
+      background: #151d33;
+      border-bottom: 2px solid #00e5ff;
+    }
+    h1 { color: #00e5ff; }
+    main { padding: 50px 18px; }
+    .card {
+      max-width: 420px;
+      margin: auto;
+      padding: 24px;
+      background: #151d33;
+      border-radius: 16px;
+    }
+    a {
+      display: inline-block;
+      padding: 12px 22px;
+      margin-top: 12px;
+      background: #00e5ff;
+      color: #07101a;
+      text-decoration: none;
+      font-weight: bold;
+      border-radius: 8px;
+    }
+    footer { padding: 24px; color: #aaa; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>SAJILO eSPORTS</h1>
+    <p>We Are Always Ready To Help You</p>
+  </header>
+  <main>
+    <div class="card">
+      <h2>Welcome, Gamers!</h2>
+      <p>Your gaming community starts here.</p>
+      <a href="https://www.youtube.com/">Visit YouTube</a>
+    </div>
+  </main>
+  <footer>© 2026 Sajilo eSports</footer>
+</body>
+</html>
